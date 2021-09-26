@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="yuv-rgb.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="PCM.cpp">
+    <ClCompile Include="pcm.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
